@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5318e65a1157a4432ade61064e8f70a1, type: 3}
+  m_Name: SO_BodyPartAddition_Ability
+  m_EditorClassIdentifier: 
+  pickup: {fileID: 2720238567844713858, guid: 8a56193f82f4b4d458910cedd3005bc3, type: 3}
+  targetingStrategy: {fileID: 11400000, guid: b39b648f693ef48c69a7952ee2270f42, type: 2}
+  effectStrategy: {fileID: 11400000, guid: 7ebba9b57f213424ab826b2ad4626c10, type: 2}

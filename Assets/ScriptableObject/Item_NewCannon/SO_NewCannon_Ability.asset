@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5318e65a1157a4432ade61064e8f70a1, type: 3}
+  m_Name: SO_NewCannon_Ability
+  m_EditorClassIdentifier: 
+  pickup: {fileID: 3372999043821194738, guid: f33b6ce4a0d6c1848b67e2f8cf5628a8, type: 3}
+  targetingStrategy: {fileID: 11400000, guid: b39b648f693ef48c69a7952ee2270f42, type: 2}
+  effectStrategy: {fileID: 11400000, guid: 1c93c7c4184db46c889b8c4904d8eb5b, type: 2}
