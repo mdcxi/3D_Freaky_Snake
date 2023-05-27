@@ -8,6 +8,8 @@ If targets are in a certain range, the cannon on each snake's bodypart will shoo
 
 <img width="244" alt="Screen Shot 2023-05-27 at 22 02 11" src="https://github.com/mdcxi/3D_Freaky_Snake/assets/97457787/f9117cc0-f35f-4ccf-a563-0fec26db51c0">
 
+
 𝐇𝐞𝐫𝐞 𝐢𝐬 𝐭𝐡𝐢𝐬 𝐠𝐚𝐦𝐞 𝐦𝐚𝐩:
+
 <img width="751" alt="Screen Shot 2023-05-27 at 22 00 26" src="https://github.com/mdcxi/3D_Freaky_Snake/assets/97457787/895341a4-4e9a-40ac-a899-30ea26c43926">
 
